@@ -6488,9 +6488,9 @@ Source: AVX .. aphvc.pdf</description>
 <part name="GND9" library="supply1" deviceset="GND" device=""/>
 <part name="JP2" library="pinhead" deviceset="PINHD-1X3" device="/90"/>
 <part name="JP4" library="pinhead" deviceset="PINHD-1X3" device="/90"/>
-<part name="R1" library="resistor" deviceset="R-EU_" device="0207/10" value="150K"/>
-<part name="R2" library="resistor" deviceset="R-EU_" device="0207/10" value="56K"/>
-<part name="C1" library="resistor" deviceset="C-EU" device="025-025X050" value="0.1UF"/>
+<part name="R1" library="resistor" deviceset="R-EU_" device="0207/10" value="100K"/>
+<part name="R2" library="resistor" deviceset="R-EU_" device="0207/10" value="10K"/>
+<part name="C1" library="resistor" deviceset="C-EU" device="025-025X050" value="0.33UF"/>
 <part name="GND7" library="supply1" deviceset="GND" device=""/>
 <part name="JP7" library="pinhead" deviceset="PINHD-1X1" device=""/>
 <part name="R3" library="resistor" deviceset="R-EU_" device="0207/10" value="100K"/>
